@@ -1,0 +1,160 @@
+{
+  "countries": [
+    {
+      "id": "JS",
+      "name": "JavaScript",
+      "link": "https://www.javascript.com",
+      "category": "Lenguaje de programación"
+    },
+    {
+      "id": "PY",
+      "name": "Pythonland",
+      "link": "https://www.python.org",
+      "category": "Lenguaje de programación"
+    },
+    {
+      "id": "JAVA",
+      "name": "Java Island",
+      "link": "https://www.oracle.com/java",
+      "category": "Lenguaje de programación"
+    },
+    {
+      "id": "CLOUD",
+      "name": "Cloudia",
+      "link": "https://aws.amazon.com",
+      "category": "Computación en la nube"
+    },
+    {
+      "id": "AI",
+      "name": "Artificial Intelligence",
+      "link": "https://www.ibm.com/artificial-intelligence",
+      "category": "Inteligencia Artificial"
+    },
+    {
+      "id": "DEV",
+      "name": "Developia",
+      "link": "https://www.dev.to",
+      "category": "Comunidad de desarrolladores"
+    },
+    {
+      "id": "DATA",
+      "name": "Dataverse",
+      "link": "https://www.dataverse.org",
+      "category": "Datos"
+    },
+    {
+      "id": "SQL",
+      "name": "SQL Server",
+      "link": "https://www.microsoft.com/en-us/sql-server",
+      "category": "Base de datos"
+    },
+    {
+      "id": "UX",
+      "name": "User Experience",
+      "link": "https://www.nngroup.com",
+      "category": "Experiencia del usuario"
+    },
+    {
+      "id": "CI",
+      "name": "Continuous Integration",
+      "link": "https://www.atlassian.com/continuous-delivery/continuous-integration",
+      "category": "Prácticas de desarrollo"
+    },
+    {
+      "id": "AGILE",
+      "name": "Agileland",
+      "link": "https://www.agilealliance.org",
+      "category": "Metodología"
+    },
+    {
+      "id": "NODE",
+      "name": "Node.js",
+      "link": "https://nodejs.org",
+      "category": "Entorno de ejecución"
+    },
+    {
+      "id": "REACT",
+      "name": "React World",
+      "link": "https://reactjs.org",
+      "category": "Framework"
+    },
+    {
+      "id": "ML",
+      "name": "Machine Learning",
+      "link": "https://www.tensorflow.org",
+      "category": "Inteligencia Artificial"
+    },
+    {
+      "id": "DEVOPS",
+      "name": "DevOps Kingdom",
+      "link": "https://www.devops.com",
+      "category": "Prácticas de desarrollo"
+    },
+    {
+      "id": "UXD",
+      "name": "UX Design",
+      "link": "https://www.uxdesign.cc",
+      "category": "Diseño"
+    },
+    {
+      "id": "APP",
+      "name": "App Development",
+      "link": "https://www.appdevelopment.com",
+      "category": "Desarrollo de aplicaciones"
+    },
+    {
+      "id": "WEB",
+      "name": "Web Development",
+      "link": "https://www.w3schools.com",
+      "category": "Desarrollo web"
+    },
+    {
+      "id": "MLANG",
+      "name": "Multi-Language",
+      "link": "https://www.programming-languages.net",
+      "category": "Lenguajes de programación"
+    },
+    {
+      "id": "FRAME",
+      "name": "Frameworks",
+      "link": "https://www.fullstackacademy.com/frameworks",
+      "category": "Frameworks"
+    },
+    {
+      "id": "CROSS",
+      "name": "Cross-Platform",
+      "link": "https://www.flutter.dev",
+      "category": "Desarrollo multiplataforma"
+    },
+    {
+      "id": "K8S",
+      "name": "Kubernetes",
+      "link": "https://kubernetes.io",
+      "category": "Orquestación de contenedores"
+    },
+    {
+      "id": "DOCKER",
+      "name": "Docker Hub",
+      "link": "https://hub.docker.com",
+      "category": "Contenedores"
+    },
+    {
+      "id": "BLOCKCHAIN",
+      "name": "Blockchain Hub",
+      "link": "https://www.blockchain.com",
+      "category": "Tecnología emergente"
+    },
+    {
+      "id": "VR",
+      "name": "Virtual Reality",
+      "link": "https://www.oculus.com",
+      "category": "Realidad virtual"
+    },
+    {
+      "id": "IOT",
+      "name": "Internet of Things",
+      "link": "https://www.iotforall.com",
+      "category": "Tecnología emergente"
+    }
+  ]
+}
